@@ -1,0 +1,15 @@
+{
+    "Name": "Flower Dance Wizard Stairs",
+    "Author": "wamc",
+    "Version": "1.0.0",
+    "Description": "Adds stairs to the wizard during the flower dance for SVE.",
+    "UniqueID": "wamc.FlowerDStairs",
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies": [
+	    {
+		  "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+		}		  
+	]
+ }

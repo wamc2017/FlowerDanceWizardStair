@@ -1,0 +1,12 @@
+{
+	"Format": "1.25.0",
+	
+	"Changes": [
+	    {
+	        "Action": "EditMap",
+	        "Target": "Maps/Forest-FlowerFestival",
+	        "FromFile": "assets/stairs.tmx",
+	        "ToArea": { "X": 18, "Y": 11, "Width": 6, "Height": 9 }
+	    },
+	]
+}
